@@ -2,4 +2,4 @@ Initial file with text
 
 some other text
 
-and my colleague
+and my colleague did the change
