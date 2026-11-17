@@ -1,0 +1,17 @@
+{
+  "name": "lesson-3",
+  "version": "1.0.0",
+  "description": "First npm here",
+  "license": "ISC",
+  "author": "Andrii P.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "test-common-js": "node commonJs/importFile.js",
+    "test-esm": "node ecmaScriptJs/importFile.js"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
